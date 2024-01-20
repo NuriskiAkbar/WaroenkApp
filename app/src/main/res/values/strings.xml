@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestMitraSinerjiTeknoindo</string>
+    <string name="emailid">emailID</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="forgot_password">forgot password ?</string>
+    <string name="search">search</string>
+    <string name="content_description_for_search">content description for search</string>
+    <string name="id_transaksi">202201-001</string>
+    <string name="id_barang">01</string>
+    <string name="hapus">Hapus</string>
+    <string name="no_telepon">No Telepon</string>
+    <string name="nama">Nama</string>
+    <string name="kode">Kode</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nomor">Nomor</string>
+    <string name="simpan">Simpan</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="nomor_barang">Nomor Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="total">Total</string>
+</resources>
